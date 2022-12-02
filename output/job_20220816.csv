@@ -1,0 +1,45 @@
+id,name
+1000,novice
+1100,swordsman
+1110,knight
+1111,lord knight
+1112,rune knight
+1120,crusader
+1121,paladin
+1122,royal guard
+1200,acolyte
+1210,priest
+1211,high priest
+1212,archbishop
+1220,monk
+1221,champion
+1222,shura
+1300,mage
+1310,wizard
+1311,high wizard
+1312,warlock
+1320,sage
+1321,scholar
+1322,elemental envoy
+1400,thief
+1410,assassin
+1411,assassin cross
+1412,guillotine cross
+1420,rogue
+1421,stalker
+1500,archer
+1510,hunter
+1511,sniper
+1512,ranger
+1520,bard
+1521,crown
+1522,minstrel
+1530,dancer
+1531,gypsy
+1532,wanderer
+1600,merchant
+1610,blacksmith
+1611,whitesmith
+1612,mechanic
+1620,alchemist
+1621,biochemist

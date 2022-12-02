@@ -1,0 +1,1427 @@
+[110001] = {
+		["ArtifactName"] = "ShadowWeaponName_11000102",
+		["ClassBranch"] = 1110,
+		["CostItemId"] = {
+			0,
+			10204103,
+			10424035,
+		},
+		["CostNum"] = {
+			25600,
+			4,
+			36,
+		},
+		["CostType"] = {
+			1,
+			5,
+			5,
+		},
+		["GroupIdList"] = {
+			101,
+			201,
+			301,
+			401,
+			501,
+			601,
+			701,
+		},
+		["Id"] = 110001,
+		["Job"] = {
+			1100,
+			1110,
+			1111,
+			1112,
+		},
+		["Name"] = "ShadowWeaponName_11000101",
+		["RequireWeaponType"] = {
+			301,
+		},
+		["TaskNum"] = {
+			{
+				["TaskFinishNum"] = 10,
+				["env"] = 1,
+			},
+			{
+				["TaskFinishNum"] = 10,
+				["env"] = 9,
+			},
+			{
+				["TaskFinishNum"] = 10,
+				["env"] = 10,
+			},
+			{
+				["TaskFinishNum"] = 10,
+				["env"] = 16,
+			},
+		},
+	},
+	[110002] = {
+		["ArtifactName"] = "ShadowWeaponName_11000202",
+		["ClassBranch"] = 1110,
+		["CostItemId"] = {
+			0,
+			10204103,
+			10424034,
+		},
+		["CostNum"] = {
+			25600,
+			4,
+			36,
+		},
+		["CostType"] = {
+			1,
+			5,
+			5,
+		},
+		["Desc"] = "征矛/澄矛",
+		["GroupIdList"] = {
+			102,
+			202,
+			302,
+			402,
+			502,
+			602,
+			702,
+		},
+		["Id"] = 110002,
+		["Job"] = {
+			1100,
+			1110,
+			1111,
+			1112,
+		},
+		["Name"] = "ShadowWeaponName_11000201",
+		["RequireWeaponType"] = {
+			303,
+		},
+		["TaskNum"] = {
+			{
+				["TaskFinishNum"] = 10,
+				["env"] = 1,
+			},
+			{
+				["TaskFinishNum"] = 10,
+				["env"] = 9,
+			},
+			{
+				["TaskFinishNum"] = 10,
+				["env"] = 10,
+			},
+			{
+				["TaskFinishNum"] = 10,
+				["env"] = 16,
+			},
+		},
+	},
+	[110003] = {
+		["ArtifactName"] = "ShadowWeaponName_11000302",
+		["ClassBranch"] = 1110,
+		["CostItemId"] = {
+			0,
+			10204103,
+			10424033,
+			10424047,
+		},
+		["CostNum"] = {
+			25600,
+			4,
+			24,
+			12,
+		},
+		["CostType"] = {
+			1,
+			5,
+			5,
+			5,
+		},
+		["Desc"] = "侍剑义盾/王剑辉盾",
+		["GroupIdList"] = {
+			103,
+			203,
+			303,
+			403,
+			503,
+			603,
+			703,
+		},
+		["Id"] = 110003,
+		["Job"] = {
+			1100,
+			1110,
+			1111,
+			1112,
+		},
+		["Name"] = "ShadowWeaponName_11000301",
+		["RequireWeaponType"] = {
+			101,
+			201,
+		},
+		["TaskNum"] = {
+			{
+				["TaskFinishNum"] = 10,
+				["env"] = 1,
+			},
+			{
+				["TaskFinishNum"] = 10,
+				["env"] = 9,
+			},
+			{
+				["TaskFinishNum"] = 10,
+				["env"] = 10,
+			},
+			{
+				["TaskFinishNum"] = 10,
+				["env"] = 16,
+			},
+		},
+	},
+	[112001] = {
+		["ArtifactName"] = "ShadowWeaponName_11200102",
+		["CostItemId"] = {
+			0,
+			10204103,
+			10424200,
+		},
+		["CostNum"] = {
+			25600,
+			4,
+			36,
+		},
+		["CostType"] = {
+			1,
+			5,
+			5,
+		},
+		["GroupIdList"] = {
+			121,
+			221,
+			321,
+			421,
+			521,
+			621,
+			721,
+		},
+		["Id"] = 112001,
+		["Job"] = {
+			1100,
+			1120,
+			1121,
+			1122,
+		},
+		["Name"] = "ShadowWeaponName_11200101",
+		["RequireWeaponType"] = {
+			301,
+		},
+		["TaskNum"] = {
+			{
+				["TaskFinishNum"] = 10,
+				["env"] = 1,
+			},
+			{
+				["TaskFinishNum"] = 10,
+				["env"] = 9,
+			},
+			{
+				["TaskFinishNum"] = 10,
+				["env"] = 10,
+			},
+			{
+				["TaskFinishNum"] = 10,
+				["env"] = 16,
+			},
+		},
+	},
+	[112102] = {
+		["ArtifactName"] = "ShadowWeaponName_11210202",
+		["CostItemId"] = {
+			0,
+			10204103,
+			10424208,
+		},
+		["CostNum"] = {
+			25600,
+			4,
+			36,
+		},
+		["CostType"] = {
+			1,
+			5,
+			5,
+		},
+		["GroupIdList"] = {
+			131,
+			231,
+			331,
+			431,
+			531,
+			631,
+			731,
+		},
+		["Id"] = 112102,
+		["Job"] = {
+			1100,
+			1120,
+			1121,
+			1122,
+		},
+		["Name"] = "ShadowWeaponName_11210201",
+		["RequireWeaponType"] = {
+			303,
+		},
+		["TaskNum"] = {
+			{
+				["TaskFinishNum"] = 10,
+				["env"] = 1,
+			},
+			{
+				["TaskFinishNum"] = 10,
+				["env"] = 9,
+			},
+			{
+				["TaskFinishNum"] = 10,
+				["env"] = 10,
+			},
+			{
+				["TaskFinishNum"] = 10,
+				["env"] = 16,
+			},
+		},
+	},
+	[112203] = {
+		["ArtifactName"] = "ShadowWeaponName_11210302",
+		["CostItemId"] = {
+			0,
+			10204103,
+			10424216,
+			10424240,
+		},
+		["CostNum"] = {
+			25600,
+			4,
+			24,
+			12,
+		},
+		["CostType"] = {
+			1,
+			5,
+			5,
+			5,
+		},
+		["Desc"] = "侍剑义盾/王剑辉盾",
+		["GroupIdList"] = {
+			141,
+			241,
+			341,
+			441,
+			541,
+			641,
+			741,
+		},
+		["Id"] = 112203,
+		["Job"] = {
+			1100,
+			1120,
+			1121,
+			1122,
+		},
+		["Name"] = "ShadowWeaponName_11210301",
+		["RequireWeaponType"] = {
+			101,
+			201,
+		},
+		["TaskNum"] = {
+			{
+				["TaskFinishNum"] = 10,
+				["env"] = 1,
+			},
+			{
+				["TaskFinishNum"] = 10,
+				["env"] = 9,
+			},
+			{
+				["TaskFinishNum"] = 10,
+				["env"] = 10,
+			},
+			{
+				["TaskFinishNum"] = 10,
+				["env"] = 16,
+			},
+		},
+	},
+	[120001] = {
+		["ArtifactName"] = "ShadowWeaponName_12000102",
+		["ClassBranch"] = 1210,
+		["CostItemId"] = {
+			0,
+			10204103,
+			10424036,
+			10424046,
+		},
+		["CostNum"] = {
+			25600,
+			4,
+			24,
+			12,
+		},
+		["CostType"] = {
+			1,
+			5,
+			5,
+			5,
+		},
+		["Desc"] = "坚锤羽盾/铭锤灵盾",
+		["GroupIdList"] = {
+			107,
+			207,
+			307,
+			407,
+			507,
+			607,
+			707,
+		},
+		["Id"] = 120001,
+		["Job"] = {
+			1200,
+			1210,
+			1211,
+			1212,
+		},
+		["Name"] = "ShadowWeaponName_12000101",
+		["RequireWeaponType"] = {
+			104,
+			201,
+		},
+		["TaskNum"] = {
+			{
+				["TaskFinishNum"] = 10,
+				["env"] = 1,
+			},
+			{
+				["TaskFinishNum"] = 10,
+				["env"] = 9,
+			},
+			{
+				["TaskFinishNum"] = 10,
+				["env"] = 10,
+			},
+			{
+				["TaskFinishNum"] = 10,
+				["env"] = 16,
+			},
+		},
+	},
+	[120002] = {
+		["ArtifactName"] = "ShadowWeaponName_12000202",
+		["ClassBranch"] = 1210,
+		["CostItemId"] = {
+			0,
+			10204103,
+			10424039,
+			10424046,
+		},
+		["CostNum"] = {
+			25600,
+			4,
+			24,
+			12,
+		},
+		["CostType"] = {
+			1,
+			5,
+			5,
+			5,
+		},
+		["Desc"] = "祭杖羽盾/祈杖灵盾",
+		["GroupIdList"] = {
+			108,
+			208,
+			308,
+			408,
+			508,
+			608,
+			708,
+		},
+		["Id"] = 120002,
+		["Job"] = {
+			1200,
+			1210,
+			1211,
+			1212,
+		},
+		["Name"] = "ShadowWeaponName_12000201",
+		["RequireWeaponType"] = {
+			103,
+			201,
+		},
+		["TaskNum"] = {
+			{
+				["TaskFinishNum"] = 10,
+				["env"] = 1,
+			},
+			{
+				["TaskFinishNum"] = 10,
+				["env"] = 9,
+			},
+			{
+				["TaskFinishNum"] = 10,
+				["env"] = 10,
+			},
+			{
+				["TaskFinishNum"] = 10,
+				["env"] = 16,
+			},
+		},
+	},
+	[120003] = {
+		["ArtifactName"] = "ShadowWeaponName_12000302",
+		["ClassBranch"] = 1210,
+		["CostItemId"] = {
+			0,
+			10204103,
+			10424040,
+		},
+		["CostNum"] = {
+			25600,
+			4,
+			36,
+		},
+		["CostType"] = {
+			1,
+			5,
+			5,
+		},
+		["Desc"] = "术典/神典",
+		["GroupIdList"] = {
+			109,
+			209,
+			309,
+			409,
+			509,
+			609,
+			709,
+		},
+		["Id"] = 120003,
+		["Job"] = {
+			1200,
+			1210,
+			1211,
+			1212,
+		},
+		["Name"] = "ShadowWeaponName_12000301",
+		["RequireWeaponType"] = {
+			107,
+		},
+		["TaskNum"] = {
+			{
+				["TaskFinishNum"] = 10,
+				["env"] = 1,
+			},
+			{
+				["TaskFinishNum"] = 10,
+				["env"] = 9,
+			},
+			{
+				["TaskFinishNum"] = 10,
+				["env"] = 10,
+			},
+			{
+				["TaskFinishNum"] = 10,
+				["env"] = 16,
+			},
+		},
+	},
+	[122001] = {
+		["ArtifactName"] = "ShadowWeaponName_12200202",
+		["ClassBranch"] = 1220,
+		["CostItemId"] = {
+			0,
+			10204103,
+			10424224,
+		},
+		["CostNum"] = {
+			25600,
+			4,
+			36,
+		},
+		["CostType"] = {
+			1,
+			5,
+			5,
+		},
+		["Desc"] = "序杖/厄杖",
+		["GroupIdList"] = {
+			122,
+			222,
+			322,
+			422,
+			522,
+			622,
+			722,
+		},
+		["Id"] = 122001,
+		["Job"] = {
+			1200,
+			1220,
+			1221,
+			1222,
+		},
+		["Name"] = "ShadowWeaponName_12200201",
+		["RequireWeaponType"] = {
+			309,
+		},
+		["TaskGroupId"] = 102,
+		["TaskNum"] = {
+			{
+				["TaskFinishNum"] = 10,
+				["env"] = 1,
+			},
+			{
+				["TaskFinishNum"] = 10,
+				["env"] = 9,
+			},
+			{
+				["TaskFinishNum"] = 10,
+				["env"] = 10,
+			},
+			{
+				["TaskFinishNum"] = 10,
+				["env"] = 16,
+			},
+		},
+	},
+	[122101] = {
+		["ArtifactName"] = "ShadowWeaponName_12210202",
+		["ClassBranch"] = 1220,
+		["CostItemId"] = {
+			0,
+			10204103,
+			10424232,
+		},
+		["CostNum"] = {
+			25600,
+			4,
+			36,
+		},
+		["CostType"] = {
+			1,
+			5,
+			5,
+		},
+		["Desc"] = "序杖/厄杖",
+		["GroupIdList"] = {
+			132,
+			232,
+			332,
+			432,
+			532,
+			632,
+			732,
+		},
+		["Id"] = 122101,
+		["Job"] = {
+			1200,
+			1220,
+			1221,
+			1222,
+		},
+		["Name"] = "ShadowWeaponName_12210201",
+		["RequireWeaponType"] = {
+			308,
+		},
+		["TaskGroupId"] = 102,
+		["TaskNum"] = {
+			{
+				["TaskFinishNum"] = 10,
+				["env"] = 1,
+			},
+			{
+				["TaskFinishNum"] = 10,
+				["env"] = 9,
+			},
+			{
+				["TaskFinishNum"] = 10,
+				["env"] = 10,
+			},
+			{
+				["TaskFinishNum"] = 10,
+				["env"] = 16,
+			},
+		},
+	},
+	[130001] = {
+		["ArtifactName"] = "ShadowWeaponName_13000102",
+		["ClassBranch"] = 1310,
+		["CostItemId"] = {
+			0,
+			10204103,
+			10424039,
+			10424046,
+		},
+		["CostNum"] = {
+			25600,
+			4,
+			24,
+			12,
+		},
+		["CostType"] = {
+			1,
+			5,
+			5,
+			5,
+		},
+		["Desc"] = "祭杖羽盾/祈杖灵盾",
+		["GroupIdList"] = {
+			110,
+			210,
+			310,
+			410,
+			510,
+			610,
+			710,
+		},
+		["Id"] = 130001,
+		["Job"] = {
+			1300,
+			1310,
+			1311,
+			1312,
+		},
+		["Name"] = "ShadowWeaponName_13000101",
+		["RequireWeaponType"] = {
+			103,
+			201,
+		},
+		["TaskGroupId"] = 102,
+		["TaskNum"] = {
+			{
+				["TaskFinishNum"] = 10,
+				["env"] = 1,
+			},
+			{
+				["TaskFinishNum"] = 10,
+				["env"] = 9,
+			},
+			{
+				["TaskFinishNum"] = 10,
+				["env"] = 10,
+			},
+			{
+				["TaskFinishNum"] = 10,
+				["env"] = 16,
+			},
+		},
+	},
+	[130002] = {
+		["ArtifactName"] = "ShadowWeaponName_13000202",
+		["ClassBranch"] = 1310,
+		["CostItemId"] = {
+			0,
+			10204103,
+			10424041,
+		},
+		["CostNum"] = {
+			25600,
+			4,
+			36,
+		},
+		["CostType"] = {
+			1,
+			5,
+			5,
+		},
+		["Desc"] = "序杖/厄杖",
+		["GroupIdList"] = {
+			111,
+			211,
+			311,
+			411,
+			511,
+			611,
+			711,
+		},
+		["Id"] = 130002,
+		["Job"] = {
+			1300,
+			1310,
+			1311,
+			1312,
+		},
+		["Name"] = "ShadowWeaponName_13000201",
+		["RequireWeaponType"] = {
+			306,
+		},
+		["TaskGroupId"] = 102,
+		["TaskNum"] = {
+			{
+				["TaskFinishNum"] = 10,
+				["env"] = 1,
+			},
+			{
+				["TaskFinishNum"] = 10,
+				["env"] = 9,
+			},
+			{
+				["TaskFinishNum"] = 10,
+				["env"] = 10,
+			},
+			{
+				["TaskFinishNum"] = 10,
+				["env"] = 16,
+			},
+		},
+	},
+	[132001] = {
+		["ArtifactName"] = "ShadowWeaponName_13200002",
+		["ClassBranch"] = 1320,
+		["CostItemId"] = {
+			0,
+			10204103,
+			10424264,
+		},
+		["CostNum"] = {
+			25600,
+			4,
+			36,
+		},
+		["CostType"] = {
+			1,
+			5,
+			5,
+		},
+		["Desc"] = "影装·亡语法典",
+		["GroupIdList"] = {
+			124,
+			224,
+			324,
+			424,
+			524,
+			624,
+			724,
+		},
+		["Id"] = 132001,
+		["Job"] = {
+			1300,
+			1320,
+			1321,
+			1322,
+		},
+		["Name"] = "ShadowWeaponName_13200001",
+		["RequireWeaponType"] = {
+			107,
+		},
+		["TaskGroupId"] = 102,
+		["TaskNum"] = {
+			{
+				["TaskFinishNum"] = 10,
+				["env"] = 1,
+			},
+			{
+				["TaskFinishNum"] = 10,
+				["env"] = 9,
+			},
+			{
+				["TaskFinishNum"] = 10,
+				["env"] = 10,
+			},
+			{
+				["TaskFinishNum"] = 10,
+				["env"] = 16,
+			},
+		},
+	},
+	[132002] = {
+		["ArtifactName"] = "ShadowWeaponName_13210001",
+		["ClassBranch"] = 1320,
+		["CostItemId"] = {
+			0,
+			10204103,
+			10424272,
+		},
+		["CostNum"] = {
+			25600,
+			4,
+			36,
+		},
+		["CostType"] = {
+			1,
+			5,
+			5,
+		},
+		["Desc"] = "影装·亡语法典",
+		["GroupIdList"] = {
+			125,
+			225,
+			325,
+			425,
+			525,
+			625,
+			725,
+		},
+		["Id"] = 132002,
+		["Job"] = {
+			1300,
+			1320,
+			1321,
+			1322,
+		},
+		["Name"] = "ShadowWeaponName_13210002",
+		["RequireWeaponType"] = {
+			306,
+		},
+		["TaskGroupId"] = 102,
+		["TaskNum"] = {
+			{
+				["TaskFinishNum"] = 10,
+				["env"] = 1,
+			},
+			{
+				["TaskFinishNum"] = 10,
+				["env"] = 9,
+			},
+			{
+				["TaskFinishNum"] = 10,
+				["env"] = 10,
+			},
+			{
+				["TaskFinishNum"] = 10,
+				["env"] = 16,
+			},
+		},
+	},
+	[140001] = {
+		["ArtifactName"] = "ShadowWeaponName_14000102",
+		["ClassBranch"] = 1410,
+		["CostItemId"] = {
+			0,
+			10204103,
+			10424044,
+		},
+		["CostNum"] = {
+			25600,
+			4,
+			36,
+		},
+		["CostType"] = {
+			1,
+			5,
+			5,
+		},
+		["Desc"] = "幻匕/黯匕",
+		["GroupIdList"] = {
+			114,
+			214,
+			314,
+			414,
+			514,
+			614,
+			714,
+		},
+		["Id"] = 140001,
+		["Job"] = {
+			1400,
+			1410,
+			1411,
+			1412,
+		},
+		["Name"] = "ShadowWeaponName_14000101",
+		["RequireWeaponType"] = {
+			105,
+			105,
+		},
+		["TaskGroupId"] = 102,
+		["TaskNum"] = {
+			{
+				["TaskFinishNum"] = 10,
+				["env"] = 1,
+			},
+			{
+				["TaskFinishNum"] = 10,
+				["env"] = 9,
+			},
+			{
+				["TaskFinishNum"] = 10,
+				["env"] = 10,
+			},
+			{
+				["TaskFinishNum"] = 10,
+				["env"] = 16,
+			},
+		},
+	},
+	[140002] = {
+		["ArtifactName"] = "ShadowWeaponName_14000202",
+		["ClassBranch"] = 1410,
+		["CostItemId"] = {
+			0,
+			10204103,
+			10424045,
+		},
+		["CostNum"] = {
+			25600,
+			4,
+			36,
+		},
+		["CostType"] = {
+			1,
+			5,
+			5,
+		},
+		["Desc"] = "逆刃/骸刃",
+		["GroupIdList"] = {
+			115,
+			215,
+			315,
+			415,
+			515,
+			615,
+			715,
+		},
+		["Id"] = 140002,
+		["Job"] = {
+			1400,
+			1410,
+			1411,
+			1412,
+		},
+		["Name"] = "ShadowWeaponName_14000201",
+		["RequireWeaponType"] = {
+			304,
+		},
+		["TaskGroupId"] = 102,
+		["TaskNum"] = {
+			{
+				["TaskFinishNum"] = 10,
+				["env"] = 1,
+			},
+			{
+				["TaskFinishNum"] = 10,
+				["env"] = 9,
+			},
+			{
+				["TaskFinishNum"] = 10,
+				["env"] = 10,
+			},
+			{
+				["TaskFinishNum"] = 10,
+				["env"] = 16,
+			},
+		},
+	},
+	[150001] = {
+		["ArtifactName"] = "ShadowWeaponName_15000102",
+		["ClassBranch"] = 1510,
+		["CostItemId"] = {
+			0,
+			10204103,
+			10424042,
+		},
+		["CostNum"] = {
+			25600,
+			4,
+			36,
+		},
+		["CostType"] = {
+			1,
+			5,
+			5,
+		},
+		["Desc"] = "界弓/名弓(短弓)",
+		["GroupIdList"] = {
+			112,
+			212,
+			312,
+			412,
+			512,
+			612,
+			712,
+		},
+		["Id"] = 150001,
+		["Job"] = {
+			1500,
+			1510,
+			1511,
+			1512,
+		},
+		["Name"] = "ShadowWeaponName_15000101",
+		["RequireWeaponType"] = {
+			307,
+		},
+		["TaskGroupId"] = 102,
+		["TaskNum"] = {
+			{
+				["TaskFinishNum"] = 10,
+				["env"] = 1,
+			},
+			{
+				["TaskFinishNum"] = 10,
+				["env"] = 9,
+			},
+			{
+				["TaskFinishNum"] = 10,
+				["env"] = 10,
+			},
+			{
+				["TaskFinishNum"] = 10,
+				["env"] = 16,
+			},
+		},
+	},
+	[150002] = {
+		["ArtifactName"] = "ShadowWeaponName_15000202",
+		["ClassBranch"] = 1510,
+		["CostItemId"] = {
+			0,
+			10204103,
+			10424043,
+		},
+		["CostNum"] = {
+			25600,
+			4,
+			36,
+		},
+		["CostType"] = {
+			1,
+			5,
+			5,
+		},
+		["Desc"] = "银弓/星弓(长弓)",
+		["GroupIdList"] = {
+			113,
+			213,
+			313,
+			413,
+			513,
+			613,
+			713,
+		},
+		["Id"] = 150002,
+		["Job"] = {
+			1500,
+			1510,
+			1511,
+			1512,
+		},
+		["Name"] = "ShadowWeaponName_15000201",
+		["RequireWeaponType"] = {
+			305,
+		},
+		["TaskGroupId"] = 102,
+		["TaskNum"] = {
+			{
+				["TaskFinishNum"] = 10,
+				["env"] = 1,
+			},
+			{
+				["TaskFinishNum"] = 10,
+				["env"] = 9,
+			},
+			{
+				["TaskFinishNum"] = 10,
+				["env"] = 10,
+			},
+			{
+				["TaskFinishNum"] = 10,
+				["env"] = 16,
+			},
+		},
+	},
+	[152001] = {
+		["ArtifactName"] = "ShadowWeaponName_15200002",
+		["ClassBranch"] = 1520,
+		["CostItemId"] = {
+			0,
+			10204103,
+			10424248,
+		},
+		["CostNum"] = {
+			25600,
+			4,
+			36,
+		},
+		["CostType"] = {
+			1,
+			5,
+			5,
+		},
+		["Desc"] = "影装·虚像之琴",
+		["GroupIdList"] = {
+			123,
+			223,
+			323,
+			423,
+			523,
+			623,
+			723,
+		},
+		["Id"] = 152001,
+		["Job"] = {
+			1500,
+			1520,
+			1521,
+			1522,
+		},
+		["Name"] = "ShadowWeaponName_15200001",
+		["RequireWeaponType"] = {
+			310,
+		},
+		["TaskGroupId"] = 102,
+		["TaskNum"] = {
+			{
+				["TaskFinishNum"] = 10,
+				["env"] = 1,
+			},
+			{
+				["TaskFinishNum"] = 10,
+				["env"] = 9,
+			},
+			{
+				["TaskFinishNum"] = 10,
+				["env"] = 10,
+			},
+			{
+				["TaskFinishNum"] = 10,
+				["env"] = 16,
+			},
+		},
+	},
+	[153001] = {
+		["ArtifactName"] = "ShadowWeaponName_15300002",
+		["ClassBranch"] = 1530,
+		["CostItemId"] = {
+			0,
+			10204103,
+			10424256,
+		},
+		["CostNum"] = {
+			25600,
+			4,
+			36,
+		},
+		["CostType"] = {
+			1,
+			5,
+			5,
+		},
+		["Desc"] = "影装·月蚀长鞭",
+		["GroupIdList"] = {
+			151,
+			251,
+			351,
+			451,
+			551,
+			651,
+			751,
+		},
+		["Id"] = 153001,
+		["Job"] = {
+			1500,
+			1530,
+			1531,
+			1532,
+		},
+		["Name"] = "ShadowWeaponName_15300001",
+		["RequireWeaponType"] = {
+			311,
+		},
+		["TaskGroupId"] = 102,
+		["TaskNum"] = {
+			{
+				["TaskFinishNum"] = 10,
+				["env"] = 1,
+			},
+			{
+				["TaskFinishNum"] = 10,
+				["env"] = 9,
+			},
+			{
+				["TaskFinishNum"] = 10,
+				["env"] = 10,
+			},
+			{
+				["TaskFinishNum"] = 10,
+				["env"] = 16,
+			},
+		},
+	},
+	[160001] = {
+		["ArtifactName"] = "ShadowWeaponName_16000102",
+		["ClassBranch"] = 1610,
+		["CostItemId"] = {
+			0,
+			10204103,
+			10424036,
+			10424046,
+		},
+		["CostNum"] = {
+			25600,
+			4,
+			24,
+			12,
+		},
+		["CostType"] = {
+			1,
+			5,
+			5,
+			5,
+		},
+		["Desc"] = "坚锤羽盾/铭锤灵盾",
+		["GroupIdList"] = {
+			104,
+			204,
+			304,
+			404,
+			504,
+			604,
+			704,
+		},
+		["Id"] = 160001,
+		["Job"] = {
+			1600,
+			1610,
+			1611,
+			1612,
+		},
+		["Name"] = "ShadowWeaponName_16000101",
+		["RequireWeaponType"] = {
+			104,
+			201,
+		},
+		["TaskNum"] = {
+			{
+				["TaskFinishNum"] = 10,
+				["env"] = 1,
+			},
+			{
+				["TaskFinishNum"] = 10,
+				["env"] = 9,
+			},
+			{
+				["TaskFinishNum"] = 10,
+				["env"] = 10,
+			},
+			{
+				["TaskFinishNum"] = 10,
+				["env"] = 16,
+			},
+		},
+	},
+	[160002] = {
+		["ArtifactName"] = "ShadowWeaponName_16000202",
+		["ClassBranch"] = 1610,
+		["CostItemId"] = {
+			0,
+			10204103,
+			10424037,
+			10424047,
+		},
+		["CostNum"] = {
+			25600,
+			4,
+			24,
+			12,
+		},
+		["CostType"] = {
+			1,
+			5,
+			5,
+			5,
+		},
+		["Desc"] = "源斧义盾/铸斧辉盾",
+		["GroupIdList"] = {
+			105,
+			205,
+			305,
+			405,
+			505,
+			605,
+			705,
+		},
+		["Id"] = 160002,
+		["Job"] = {
+			1600,
+			1610,
+			1611,
+			1612,
+		},
+		["Name"] = "ShadowWeaponName_16000201",
+		["RequireWeaponType"] = {
+			102,
+			201,
+		},
+		["TaskNum"] = {
+			{
+				["TaskFinishNum"] = 10,
+				["env"] = 1,
+			},
+			{
+				["TaskFinishNum"] = 10,
+				["env"] = 9,
+			},
+			{
+				["TaskFinishNum"] = 10,
+				["env"] = 10,
+			},
+			{
+				["TaskFinishNum"] = 10,
+				["env"] = 16,
+			},
+		},
+	},
+	[160003] = {
+		["ArtifactName"] = "ShadowWeaponName_16000302",
+		["ClassBranch"] = 1610,
+		["CostItemId"] = {
+			0,
+			10204103,
+			10424038,
+		},
+		["CostNum"] = {
+			25600,
+			4,
+			36,
+		},
+		["CostType"] = {
+			1,
+			5,
+			5,
+		},
+		["Desc"] = "漠斧/暝斧",
+		["GroupIdList"] = {
+			106,
+			206,
+			306,
+			406,
+			506,
+			606,
+			706,
+		},
+		["Id"] = 160003,
+		["Job"] = {
+			1600,
+			1610,
+			1611,
+			1612,
+		},
+		["Name"] = "ShadowWeaponName_16000301",
+		["RequireWeaponType"] = {
+			302,
+		},
+		["TaskNum"] = {
+			{
+				["TaskFinishNum"] = 10,
+				["env"] = 1,
+			},
+			{
+				["TaskFinishNum"] = 10,
+				["env"] = 9,
+			},
+			{
+				["TaskFinishNum"] = 10,
+				["env"] = 10,
+			},
+			{
+				["TaskFinishNum"] = 10,
+				["env"] = 16,
+			},
+		},
+	},

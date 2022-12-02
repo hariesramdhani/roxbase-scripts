@@ -1,0 +1,204 @@
+id,name
+10201014,Blue Herb
+10201015,Red Herb
+10201016,Yellow Herb
+10201017,White Herb
+10206601,Verdant Lotus Pond
+10206603,Green Cotton Pumpkin Field
+10206606,Evergreen Pumpkin Field
+10206609,Golden Wheat Field
+10206612,Scarecrow Wheat Field
+10306601,Breezy Pond
+10306603,Shady Red Herb
+10306606,Windmill Red Herb
+10306609,Cemetery White Herb
+10306612,Dead Wood White Herb
+10406014,Kelp
+10406015,Algae
+10406201,Pumpkin
+10406202,Wheat
+10406203,Bamboo
+10406206,Aquatic Reed
+10406207,Singing Plant
+10406208,Thicksoil Leaf
+10406209,Breeze Orchid
+10406210,Tough Vine
+10406212,Withered Chastetree
+10406213,Desert Tomato
+10406214,Cactus
+10406216,Winter Cherry
+10406217,Goldflower
+10406218,Scorched Mushroom
+10406219,Curly Leaf
+10406220,Vital Flower
+10406221,Chrysanthemum
+10406222,Tea Plant
+10406223,Candlewick
+10406224,Lavender
+10406225,Moonflower
+10406226,Quiet Flower
+10406228,Dim Shroom
+10406229,Grim Grass
+10406231,Shattering Shroom
+10406232,Arcane Flower
+10406233,Ochre Seedling
+10406234,Praying Flower
+10406235,Crystal Rose
+10406236,Purple Herb
+10406237,Berry
+10406238,Chili
+10406239,Seaweed
+10406240,Aloe Vera
+10406241,Sea Buckthorn
+10406242,Crimson Herb
+10406243,Rot Root Grass
+10406244,Stoneheart Shroom
+10406245,Guiding Grass
+10406246,Water Seeking Flower
+10406247,Sea Gem Grass
+10406248,Firefly Grass
+10406249,Soultrap Pansy
+10406250,Velvet Grass
+10406251,Frosty Grass
+10406252,Cavern Vanilla
+10406253,Sour Fruit
+10406254,Green Mint
+10406255,Dark Olive
+10406256,Redmoon Rose
+10406257,Reminiscence Grass
+10406258,Rusty Mushroom
+10406259,Fragrant Vine
+10406260,Delusional Flower
+10406261,Resurrection Leaf
+10406262,Radiance Flower
+10406263,Coldsteel Orchid
+10406264,Sweetberry
+10406265,Snowfruit
+10406266,Pungent Herb
+10406267,Dark Goldflower
+10406268,Time Leak Mushroom
+10406269,Night Light Silk
+10406602,Enigmatic Candlewick
+10406605,Stone Forest Candlewick
+10406608,Waterfall Curly Leaf
+10406611,Withered Curly Leaf
+10406614,River Aurora Grass
+10406617,Giant Log Aurora Grass
+10406620,Hidden Crushed Golden Mushroom
+10406623,Vine Crushed Golden Mushroom
+10406626,Boulder Tough Vine
+10406629,Fir Tough Vine
+10406632,Stream's Arcane Flower
+10406635,Cliff Arcane Flower
+10406637,Foggy Pond
+10424063,Luminary Soulstone I
+10424064,Luminary Soulstone II
+11106601,Angler's Fish Pond
+11406601,Green Tranquil Pond
+11506601,Fishing Area
+11506603,Secret Cave's Kelp
+11506606,Broken Cliff's Kelp
+11506609,Ice Crystal Algae
+11506612,Crags Algae
+11506615,Treasury's Singing Plant
+11506618,Suspension Bridge's Singing Plant
+11506621,Misty Winter Cherry
+11506624,Rocky Cliff's Winter Cherry
+11506627,Shimmering Aquatic Reed
+11506630,Waterfall Aquatic Reed
+11606601,Fishing Area
+12206602,Cool Rock Thicksoil Leaf
+12206605,Light Rail Thicksoil Leaf
+12206608,Wooden Frame Breeze Orchid
+12206611,Verdant Pond Breeze Orchid
+12206614,Alpine Vital Flower
+12206617,Green Shade Vital Flower
+12206620,Wooden Hut Crushed Golden Mushroom
+12206623,Sage's Crushed Golden Mushroom
+12206626,Cliffside Tough Vine
+12206629,Crag Tough Vine
+12206632,Dawn Arcane Flower
+12206635,Wooden Bridge Arcane Flower
+12706613,Underground Pond
+12806601,Deep Pit Vein
+12816601,Ore Vein [Lv.1]
+12816602,Ore Vein [Lv.2]
+12816603,Ore Vein [Lv.3]
+12816604,Ore Vein [Lv.4]
+12816605,Ore Vein [Lv.5]
+12816606,Rich Vein
+12816608,Ore Vein [Lv.6]
+12816609,Ore Vein [Lv.7]
+12816610,Ore Vein [Lv.8]
+12816611,[Lv.9] Ore Vein
+12816612,[Lv.10] Ore Vein
+12816613,Ore Vein [Lv.11]
+12816614,矿脉[Lv.12]
+13106602,Rock Cliff Cactus
+13106605,Sand Dune Cactus
+13106608,Oasis Tomato Field
+13106611,Tribe Tomato Field
+13106615,Plains Yellow Herb
+13106618,Desert Yellow Herb
+13106621,Wasteland Goldflower
+13106624,Desert Goldflower
+13106627,Bone Soil Scorched Mushroom
+13106630,Timberland Scorched Mushroom
+13106633,Guild Withered Chastetree
+13106636,Stonewall Withered Chastetree
+13206601,Oasis Pond
+13206603,Weed Cactus
+13206606,Wild Cactus
+13206609,Clearwater Desert Tomato
+13206612,Traveler Desert Tomato
+13206615,Sandstorm Yellow Herb
+13206618,Wasteland Yellow Herb
+13206621,Stone Hill Goldflower
+13206624,Hay Scorched Mushroom
+13206630,Dune Scorched Mushroom
+13206633,Dried Withered Chastetree
+13206636,Cliff Withered Chastetree
+14206601,Moonlight Pond
+14206603,Daybreak Blue Herb
+14206606,Stone Step Blue Herb
+14206609,Shrub Chrysanthemum
+14206612,Dense Chrysanthemum
+14206615,Witherton Grim Grass
+14206618,Corpse Grim Grass
+14206621,Tree Shade Ochre Seedling
+14206624,Maple Ochre Seedling
+14206627,Zen Quiet Flower
+14206630,Thicket Quiet Flower
+14306602,Hills Blue Herb
+14306605,Hidden Forest Blue Herb
+14306608,Rich Bamboo
+14306611,Farmland Bamboo
+14406602,Clear Pond Chrysanthemum
+14406605,Tribal Chrysanthemum
+14406608,Dense Forest Bamboo
+14406611,Mini-Bridge Bamboo
+14406614,Hidden Forest Corpse Grim Grass
+14406617,Thicket Corpse Grim Grass
+14406620,Tribal Ochre Sapling
+14406623,Desert Ochre Sapling
+14406626,Thicket Quiet Flower
+14406629,Old Village Quiet Flower
+14506637,Cave Pond
+16106601,Glast Heim Fishing Platform
+17106601,Harbor Fishing Platform
+18106601,Strelitzia
+18106607,Evening Primrose
+18106613,Comodo Fishing Platform
+18206601,Veronica
+18206607,Hyacinth
+18306008,霜晶石
+18306601,Flame Iris
+18406607,Borneo
+19206601,雾隐昙
+19206607,鬼藤灵芝
+19206613,灰色药草
+19206619,汶巴拉钓鱼台
+19306601,幽光水仙
+19306607,凝血梅
+19406613,尖叫花
+19506601,迷幻蘑菇
